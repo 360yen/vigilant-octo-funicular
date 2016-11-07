@@ -4,11 +4,11 @@
 int main()
 
 {
-	int a;
-	a = 20161107;
+	int b;
+	b = 20161107;
 
 
-	printf_s("%d\n", a);
+	printf_s("%d\n", b);
 
 	system("pause");
 	return(0);
